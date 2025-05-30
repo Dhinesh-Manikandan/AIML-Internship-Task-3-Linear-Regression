@@ -56,3 +56,5 @@ I interpreted the regression coefficients to understand the relationship between
 # References or Source: 
 
 Dataset : Housing.csv
+
+Resources : https://www.perplexity.ai/search/what-is-the-difference-and-mea-mawajLz_TUe6mbKrTd07Ag 
